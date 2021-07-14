@@ -1,0 +1,6 @@
+title = "Node Crypto Tracker Config"
+
+[ticker]
+coins = [ "ltc", "btc", "something" ]
+vsCurrency = "cad"
+refreshRate = 17
